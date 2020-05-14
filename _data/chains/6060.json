@@ -1,0 +1,16 @@
+{
+  "name": "GoldPro",
+  "chain": "GoldPro",
+  "network": "mainnet",
+  "rpc": [],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "",
+    "symbol": "",
+    "decimals": 18
+  },
+  "infoURL": "",
+  "shortName": "eth",
+  "chainId": 6060,
+  "networkId": 6060
+}
